@@ -23,6 +23,7 @@ header {
 
 ul {
     text-align: center;
+
 }
 
 li {
@@ -33,7 +34,10 @@ li {
     width: 150px;
     height: 50px;
     display: inline-block;
-    text-decoration: none;
+
+}
+a{
+          text-decoration: none;  
 }
 
 li:hover {
