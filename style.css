@@ -13,9 +13,14 @@ header {
 
     height: 200px;
     background-color: #2986cc;
-    width: 100%;
+    width: 100%;    
 }
+#logo{
+    float: left;
+    width: 200px;
+    height: 200px;
 
+}
 
 ul {
 
