@@ -60,6 +60,10 @@ h1 {
     margin: 0;
     padding: 15px;
 }
+h2{
+    height: 15px;
+    font-size: 15px;
+}
 
 #S1 {
     height: 500px;
